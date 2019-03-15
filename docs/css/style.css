@@ -1,3 +1,24 @@
 body, a, input, button {
 	font-family: 'Open Sans', sans-serif;
 }
+
+.hidden-in-page {
+	display: none;
+}
+
+.nav li {
+	list-style: none;
+	padding-bottom: 4px;
+}
+
+.nav li:last-child {
+	padding-bottom: 0px;
+}
+
+.nav h2 {
+	display: none;
+}
+
+.banner {
+	background: #ffff00ab;
+}

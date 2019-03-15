@@ -1,3 +1,5 @@
+<div class="hidden-in-page">
+
 # Awesome-Design-Tools
 <p align="center">
     <a href="https://flawlessapp.io/feedback?github">
@@ -14,8 +16,11 @@
 
 If you found some great design tool, just send a Pull Request. I'd love to see your suggestions! 
 
-## Table of Content
+</div>
 
+<div class="nav">
+
+## Table of Content
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
@@ -29,17 +34,23 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 * [Accessibility Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#accessibility-tools)
 * [Augmented Reality Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#augmented-reality-tools)
 
-<p align="center">
+</div>
+
+<p align="center" class="hidden-in-page">
     <a href="https://flawlessapp.io/feedback?github">
     	<img src="flawless-feedback-promo-banner.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
+
+<article class="userflow-tools">
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
 
 * [Draw.io](https://www.draw.io/) — free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
+	
+</article>
 
 ### Prototyping Tools
 
@@ -141,6 +152,5 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.
 
-
-
+</about>
 
