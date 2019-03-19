@@ -22,7 +22,7 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 ## Table of Content
 * [User Flow Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
-* [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#user-flow-tools)
+* [Prototyping Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#prototyping-tools)
 * [UI Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#ui-design-tools)
 * [Design Feedback Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#design-feedback-tools)
 * [Free Screenshot Software](https://github.com/LisaDziuba/Awesome-Design-Tools#free-screenshot-software)
@@ -36,13 +36,15 @@ If you found some great design tool, just send a Pull Request. I'd love to see y
 
 </div>
 
+<main>
+
 <p align="center" class="hidden-in-page">
     <a href="https://flawlessapp.io/feedback?github">
     	<img src="flawless-feedback-promo-banner.png" alt="Awesome-Design-Tools"/>
     </a>
 </p>
 
-<article class="userflow-tools">
+<article id="user-flow-tools">
 
 ### User Flow Tools
 If you need to make a user flow diagram, user flow map or a sitemap, take a look at these tools:
@@ -51,6 +53,8 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Overflow](https://overflow.io/) — turn your designs into playable user flow diagrams that tell a story.
 	
 </article>
+
+<article id="prototyping-tools">
 
 ### Prototyping Tools
 
@@ -63,7 +67,15 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
 
+<div class="banner">
+
 You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned in UI Design Tools section.
+
+</div>
+
+</article>
+
+<article id="ui-design-tools">
 
 ### UI Design Tools
 
@@ -75,10 +87,18 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Photoshop](https://www.adobe.com/products/photoshop.html) — imaging and graphic design software.
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
 
+</article>
+
+<article id="design-feedback-tools">
+
 ### Design Feedback Tools
 Do you get feedback during the development process? If you wish to get more structural feedback on UI issues or visual bugs take a look on this tool:
 
 * [Flawless Feedback](https://flawlessapp.io/feedback) — review and annotate iOS apps then share your feedback in Jira or Trello.
+
+</article>
+
+<article id="free-screenshot-software">
 
 ### Free Screenshot Software
 Find out powerful screenshot tools available for macOS:
@@ -91,6 +111,10 @@ Find out powerful screenshot tools available for macOS:
 * [Snappy](http://snappy-app.com/) — tool that takes quick shots and organizes them for you into collections.
 * [Teampaper Snap](https://teampaper.me/snap/) — modern screenshotting app that allows you to take screenshots of a selected area.
 
+</article>
+
+<article id="design-system-tools">
+
 ### Design System Tools
 Tools that help to build, maintain, and organize your own design system.
 
@@ -100,8 +124,15 @@ Tools that help to build, maintain, and organize your own design system.
 * [Lucid](https://lucid.style/) — tool for creating, managing and share design system. From a simple component library through to detailed descriptions of your styles.
 * [Zeroheight](https://www.zeroheight.com/) — styleguides created by designers, extended by developers, and editable by everyone.
 
+<div class="banner">
+	
 We can also add to this list Sketch and Figma, that mentioned in UI design tools.
 
+</div>
+
+</article>
+
+<article id="font-tools">
 
 ### Font Tools
 
@@ -109,6 +140,10 @@ We can also add to this list Sketch and Figma, that mentioned in UI design tools
 * [FontSpark](https://fontspark.app/) — simple tool to help designers quickly find the best fonts for their projects.
 * [Sans Forgetica](http://sansforgetica.rmit/) —  downloadable font that is scientifically designed to help you remember your study notes.
 * [Webfont](https://webfontapp.com/) — create and maintain custom SVG icon fonts, made a shared library of icons. 
+
+</article>
+
+<article id="color-picker-tools">
 
 ### Color Picker Tools
 If you are looking for eyedropper tool, color identifier tool or color capture tool, here you go: 
@@ -120,6 +155,10 @@ If you are looking for eyedropper tool, color identifier tool or color capture t
 * [Skala Color](https://bjango.com/mac/skalacolor/) — works with a huge variety of formats, covering everything you’re likely to need for web, iOS, Android, and macOS development.
 * [Swatches](https://swatchesapp.io/) — iOS app that lets you collect, inspect and share the colors that inspire you in your daily life.
 
+</article>
+
+<article id="animation-tools">
+
 ### Animation Tools 
 Need to create animated transition, micro-interaction or scroll-based animation? Go through these tools:
 
@@ -129,7 +168,15 @@ Need to create animated transition, micro-interaction or scroll-based animation?
 * [Lottie](https://airbnb.io/lottie/) — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web.
 * [Spirit](https://spiritapp.io/) — animation tool that helps you to create and manage the animations real time in the browser.
 
+<div class="banner">
+
 Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps and software animations tools.
+
+</div>
+
+</article>
+
+<article id="experience-monitoring-tools">
 
 ### Experience Monitoring Tools
 
@@ -139,18 +186,34 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 * [Google Analytics](https://analytics.google.com/analytics/web/) — measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
 * [Mixpane](https://mixpanel.com/) — get insights across all of your user-centric data to make smarter decisions and act faster based on how customers use your product or website. 
 * [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
- 
+
+</article>
+
+<article id="accessibility-tools">
+
 ### Accessibility Tools
 * [Contraste](https://contrasteapp.com/) — app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 * [Hex Naw](https://hexnaw.com/) —  helps you to test entire color systems for contrast and accessibility. 
 * [PA11Y](http://pa11y.org/) — accessibility testing tool to find issues with your web pages. It runs HTML CodeSniffer from the command line for programmatic accessibility reporting.
 
+</article>
+
+<article id="augmented-reality-tools">
+
 ### Augmented Reality Tools
 * [Lightform](https://lightform.com/) — design tool for projected AR.
 * [Spark AR Studio](https://www.sparkar.com) — сreate AR experiences for Instagram without code. 
 
+</article>
+
+<article id="reference-and-inspiration">
+
 ### Reference & Inspiration
 This repo was inspired by articles from the design community and Prototypr.io Toolbox.
+
+</article>
+
+</main>
 
 </about>
 
